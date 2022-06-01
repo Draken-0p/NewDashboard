@@ -72,11 +72,12 @@ const Dashboard = () => {
               <TableContainer bg="primary" borderRadius={4}>
                 <Table variant="simple">
                   <TableCaption >
-                    <ChevronLeftIcon mr='1rem'  />
+                    <Button><ChevronLeftIcon   /></Button>
+                  
                     <span> 1  </span>
                     <span> 2  </span>
                     <span> 3 </span>
-                    <ChevronRightIcon ml='1rem'/>
+                   <Button><ChevronRightIcon /></Button> 
                   </TableCaption>
                   <Thead>
                     <Tr>
