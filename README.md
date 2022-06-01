@@ -6,9 +6,10 @@
 # Getting Started 
 ## tech used
 ```
-  react
-  node.js 
-  express
+  React
+  Node.js 
+  Express
+  Mongodb
 ```
 ## cd to ui 
 run `npm install`
